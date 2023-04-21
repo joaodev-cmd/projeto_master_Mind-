@@ -2,6 +2,23 @@
 trabalho do pimeiro semestre 
 
 #include<stdio.h>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include<conio.h>
 #include <stdbool.h>
 #include <locale.h>
